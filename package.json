@@ -37,7 +37,6 @@
         "load-grunt-tasks": "^5.1.0"
     },
     "scripts": {
-        "preinstall": "npm install -g np npm-check-updates",
         "watch": "grunt watch",
         "build": "grunt build && ncu",
         "dependency-check": "ncu",
